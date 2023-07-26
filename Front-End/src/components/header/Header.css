@@ -1,0 +1,21 @@
+
+
+.headerContainer {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.headerText {
+  font-weight: 800;
+  font-size: 40px;
+}
+
+.headerButtom {
+  margin-left: 20px;
+  /* border: none; */
+  padding: 5px 10px;
+  cursor: pointer;
+  box-shadow: 5px 5px 8px rgb(0, 0, 0); /* Increase the shadow effect */
+}

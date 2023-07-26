@@ -1,0 +1,11 @@
+.footer{
+    width: 100%;
+    font-size: 20px;
+  }
+  
+  .footerText{
+    display: flex;
+    justify-content: center;
+    font-weight: 800;
+  }
+  
